@@ -1,3 +1,88 @@
+# 🚢 Análise do Comércio Exterior: Cadeia Metalúrgica (Usinagem)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Scrum](https://img.shields.io/badge/Scrum-0081A7?style=for-the-badge&logo=agile&logoColor=white)
+
+**Estudo da Balança Comercial (2021-2025) nas cidades de Caçapava, Jacareí, São José dos Campos e Taubaté.** *Projeto Integrador I - Gestão de Produção Industrial | FATEC São José dos Campos*
+
+---
+
+## 📋 Sobre o Projeto
+
+Este projeto analisa os fluxos de importação e exportação da **cadeia produtiva metalúrgica**, especificamente no setor de **usinagem**. O estudo foca no impacto econômico regional do Vale do Paraíba, utilizando dados oficiais do sistema **Comex Stat (MDIC)**.
+
+O objetivo foi transformar grandes volumes de dados brutos em inteligência estratégica, identificando o papel da usinagem como elo vital para os setores automotivo, aeroespacial e médico, além de diagnosticar o déficit estrutural da balança comercial regional.
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Tratamento de Dados:** Python (Google Colab) utilizando bibliotecas para higienização de códigos NCM e SH4.
+- **Visualização de Dados:** Microsoft Power BI (Criação de Dashboards interativos).
+- **Gestão do Time:** Framework Ágil Scrum.
+- **Fontes:** Comex Stat (Dados Governamentais).
+
+---
+
+## 👥 Equipe do Projeto
+
+| Integrante | Função (Scrum) | LinkedIn | GitHub |
+| :--- | :--- | :---: | :---: |
+| **Anderson Santos** | Product Owner | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santos-31473141) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/SantosGuarilha) |
+| **José Sérgio dos Santos** | Scrum Master | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-s%C3%A9rgio-dos-santos-a841ba36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoseSergio414) |
+| **Luis Carlos dos Santos** | Scrum Team |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiscarlosjacare%C3%AD?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/API-GPI-Grupo-6-Metalurgica/people/cantiliolc-LuisCarlos) |
+| **Sebastião Leandro** | Scrum Team | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-leandro-78a273387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastiao82) |
+
+**Orientadores:** Prof. Rubens Barreto da Silva e Prof. Me. Marcus Vinícius do Nascimento.
+
+---
+
+## 📊 Principais Indicadores Globais (2021 - 2025)
+
+Os dados consolidados revelam um cenário de forte dependência externa na cadeia de usinagem regional:
+
+* 📥 **Importação Total:** US$ 35,34 Bilhões (73,96% do fluxo).
+* 📤 **Exportação Total:** US$ 12,44 Bilhões (26,04% do fluxo).
+* ⚖️ **Saldo Comercial:** Déficit de **US$ 22,89 Bilhões**.
+* 📦 **Volume Transacionado:** 5 Bilhões de KG importados contra 2 Bilhões de KG exportados.
+
+---
+
+## 💡 Insights e Conclusões Estratégicas
+
+* **O "Vilão" do Déficit:** O item **Veios e Eixos (Árvores de Transmissão)** é o principal responsável pelo saldo negativo, com massiva importação vinda da China.
+* **Destaque Positivo:** O segmento de **Partes Reconhecíveis** apresentou superávit, sendo o grande motor das exportações regionais.
+* **Parceiros Comerciais:** 
+    * 🇺🇸 **EUA:** Principal comprador do setor (US$ 3,7 Bi), sendo o caminho mais rápido para aumento de receita em dólar.
+    * 🇨🇳 **China:** Maior fornecedor e maior fonte de déficit.
+    * 🇲🇽 **México:** Único parceiro estratégico com o qual a região mantém uma relação comercial equilibrada/superavitária.
+* **Alerta 2025:** As projeções indicam uma retração crítica de **27,29% nas exportações**, sugerindo a necessidade urgente de políticas de incentivo à competitividade internacional.
+
+---
+
+## 🖼️ Visualização dos Dashboards
+
+> *(Nota: Insira aqui os prints das telas de KPI, Sazonalidade Mensal e Parceiros Comerciais conforme apresentados na Feira de Soluções).*
+
+[Dashboard_Geral_Link_Imagem]
+
+---
+*Este projeto faz parte da jornada de formação em Gestão da Produção Industrial, conectando análise de dados com a realidade do mercado global.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a "Proatividade, Autonomia, Colaboração e Entrega de Resultados dos Estudantes Envolvidos".
 
 # Aprendizado por Projeto Integrador (API) - Cadeia Produtiva Metalúrgica (usinagem)
