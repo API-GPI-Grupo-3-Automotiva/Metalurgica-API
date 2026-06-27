@@ -17,7 +17,7 @@
 * [Insights e Conclusões Estratégicas](#Insights-e-Conclusões-Estratégicas)
 * [Backlog do produto](#Product-Backlog)
 * [Gantt](#Gantt)
-* [Arquivo Google Colab](#Arquivo-Google-Colab)
+* [Arquivos Google Colab](#Arquivos-Google-Colab)
 * [Arquivo csv de Importação e Exportação](#Arquivo-csv-de-Importação-e-Exportação)
 * [Visualização dos Insights](#Visualização-dos-Insights)
 * [Arquivo Dashboard Power BI](#Arquivo-Dashboard-Power-BI)
@@ -107,7 +107,7 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Nov
 
 ---
 
-# Arquivo Google Colab
+# Arquivos Google Colab
 
 <img width="1217" height="927" alt="image" src="https://github.com/user-attachments/assets/6cae3066-bdca-4a2f-abea-600f251e548c" />
 
@@ -117,7 +117,7 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Nov
 
 >Link
 
-https://colab.research.google.com/drive/1xmrA1FQHD_sVnGs5TDI1SR1zNOG8fqQh?usp=sharing
+https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Dadosexporta%C3%A7%C3%A3o_%C3%ADn%C3%ADcio.ipynb
 
 ---
 
