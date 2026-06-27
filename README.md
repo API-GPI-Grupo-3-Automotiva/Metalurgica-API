@@ -20,7 +20,7 @@
 * [Arquivo Google Colab](#Arquivo-Google-Colab)
 * [Arquivo.csv de Importação e Exportação.](#Arquivo.csv-de-Importação-e-Exportação.)
 * [Visualização dos Dashboards Importação, Exportação e balança comercial da Cadeia Produtiva (usinagem)](#Prints-Dashboards)
-* [Dashboard Power BI](#Dashboard-(Power-BI))
+* [Dashboard Power BI](#Dashboard-Power-BI)
 * [Apresentação da XII Feira de soluções](#Apresentação-da-XII-Feira-de-soluções)
 * [Relatório](#Relatório)
 * [Registro das Sprints](#Registro-das-Sprints)
@@ -169,7 +169,7 @@ https://github.com/user-attachments/assets/3d0d2770-751f-4e12-8255-bb24acf0e7ed
 
 ---
 
-# Dashboard (Power BI)
+# Dashboard Power BI
 
 >Link
 
