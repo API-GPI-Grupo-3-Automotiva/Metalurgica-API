@@ -146,7 +146,7 @@ https://github.com/user-attachments/assets/3d0d2770-751f-4e12-8255-bb24acf0e7ed
 
 # Arquivo Power BI
 
-https://drive.google.com/file/d/1vgGE26VmNYBYqFFwclIxYYIQaAm9Enp6/view?usp=drive_link
+https://app.powerbi.com/view?r=eyJrIjoiYTdkYWViNDYtN2ViYi00ODVlLWFhYTktZjI1MGJiNWZmMGFjIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
 
 ---
 
