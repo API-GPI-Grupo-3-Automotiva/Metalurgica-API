@@ -125,7 +125,7 @@ https://colab.research.google.com/drive/1xmrA1FQHD_sVnGs5TDI1SR1zNOG8fqQh?usp=sh
  
 >Link
 
-https://colab.research.google.com/drive/1UCa-sUD44SGleC2Q_fuByw4G_dOxTlQR?usp=drive_link
+https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Dadosimport%C3%A7%C3%A3o.ipynb
 
 ---
 
