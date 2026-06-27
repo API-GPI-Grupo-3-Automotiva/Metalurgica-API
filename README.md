@@ -10,7 +10,9 @@
 
 # Índice
 * [Sobre o Projeto](#Sobre-o-Projeto)
-* [Equipe](#Equipe)
+* [Tecnologias e Ferramentas](#Tecnologias-e-Ferramentas)
+* [Equipe do Projeto](#Equipe-do-Projeto)
+* [Orientadores](#Orientadores)
 * [Backlog do produto](#Product-Backlog)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
@@ -30,7 +32,7 @@ O objetivo foi transformar grandes volumes de dados brutos em inteligência estr
   
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 - **Tratamento de Dados:** Python (Google Colab) utilizando bibliotecas para higienização de códigos NCM e SH4.
 - **Visualização de Dados:** Microsoft Power BI (Criação de Dashboards interativos).
@@ -39,7 +41,7 @@ O objetivo foi transformar grandes volumes de dados brutos em inteligência estr
 
 ---
 
-## 👥 Equipe do Projeto
+## Equipe do Projeto
 
 | Integrante | Função (Scrum) | LinkedIn | GitHub |
 | :--- | :--- | :---: | :---: |
@@ -48,11 +50,13 @@ O objetivo foi transformar grandes volumes de dados brutos em inteligência estr
 | **Luis Carlos dos Santos** | Scrum Team |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiscarlosjacare%C3%AD?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/API-GPI-Grupo-6-Metalurgica/people/cantiliolc-LuisCarlos) |
 | **Sebastião Leandro** | Scrum Team | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-leandro-78a273387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastiao82) |
 
-**Orientadores:** Prof. Rubens Barreto da Silva e Prof. Me. Marcus Vinícius do Nascimento.
+## Orientadores
+
+**Prof. Rubens Barreto da Silva e Prof. Me. Marcus Vinícius do Nascimento.**
 
 ---
 
-## 📊 Principais Indicadores Globais (2021 - 2025)
+## Principais Indicadores Globais (2021 - 2025)
 
 Os dados consolidados revelam um cenário de forte dependência externa na cadeia de usinagem regional:
 
