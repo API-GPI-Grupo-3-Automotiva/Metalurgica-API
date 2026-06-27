@@ -18,7 +18,7 @@
 * [Backlog do produto](#Product-Backlog)
 * [Gantt](#Gantt)
 * [Arquivo Google Colab](#Arquivo-Google-Colab)
-* [Arquivo.csv de Importação e Exportação.](#Arquivo-csv-de-Importação-e-Exportação.)
+* [Arquivo.csv de Importação e Exportação](#Arquivo-csv-de-Importação-e-Exportação)
 * [Visualização dos Dashboards Importação Exportação e balança comercial da Cadeia Produtiva](#Visualização-dos-Dashboards-Importação-Exportação-e-balança-comercial-da-Cadeia-Produtiva)
 * [Dashboard Power BI](#Dashboard-Power-BI)
 * [Apresentação da XII Feira de soluções](#Apresentação-da-XII-Feira-de-soluções)
@@ -135,7 +135,7 @@ https://colab.research.google.com/drive/11xS76rw55ZOBzjL-1zlrca465_SGmVLh?usp=dr
 
 https://colab.research.google.com/drive/1UPbPGwr2CO3U8kikfb1ZwxlJU3VDV-wo?usp=drive_link
 
-# Arquivo.csv de Importação e Exportação.
+# Arquivo.csv de Importação e Exportação
 
 >Link
 
