@@ -89,7 +89,7 @@ Os dados consolidados revelam um cenário de forte dependência externa na cadei
 
 > Arquivo
 
-https://docs.google.com/spreadsheets/d/1kJ1cwPZ4MR87zW-SLJPsg8rr4Vga_nxn/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
+https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Novo%20Gantt.xlsx
 
 ---
 
