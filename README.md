@@ -111,6 +111,8 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Nov
 
 <img width="1217" height="927" alt="image" src="https://github.com/user-attachments/assets/6cae3066-bdca-4a2f-abea-600f251e548c" />
 
+---
+
 **Primeiro passo - Dados exportação e tabelas auxiliares.**
 
 >Link
