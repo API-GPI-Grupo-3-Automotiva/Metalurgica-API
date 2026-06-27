@@ -8,6 +8,15 @@
 
 ---
 
+# Índice
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Equipe](#Equipe)
+* [Backlog do produto](#Product-Backlog)
+* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Registro das Sprints](#Registro-das-Sprints)
+
+---
+
 ## 📋 Sobre o Projeto
 
 Este projeto analisa os fluxos de importação e exportação da **cadeia produtiva metalúrgica**, especificamente no setor de **usinagem**. O estudo foca no impacto econômico regional do Vale do Paraíba, utilizando dados oficiais do sistema **Comex Stat (MDIC)**.
@@ -66,59 +75,11 @@ Os dados consolidados revelam um cenário de forte dependência externa na cadei
 
 ---
 
-## 🖼️ Visualização dos Dashboards
+# Product Backlog
 
-> *(Nota: Insira aqui os prints das telas de KPI, Sazonalidade Mensal e Parceiros Comerciais conforme apresentados na Feira de Soluções).*
-
-[Dashboard_Geral_Link_Imagem]
+<img width="1256" height="1284" alt="image" src="https://github.com/user-attachments/assets/5aefad53-4685-4cba-bb25-f4db06fa129e" />
 
 ---
-
-# Registro das Sprints
-
-| Sprint            | Previsão   | Status   | Histórico |
-|-------------------|------------|----------|-----------|
-| 01                | 06/10/2025 |  Concluído| [MVP](MVP/sp1.md)  |
-| 02                | 10/11/2025 | Concluído | [MVP](MVP/sp2.md)  |
-| 03                | 24/11/2025 | Concluído  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 04/12/2025 | A fazer | [MVP](#)|
-
----
-*Este projeto faz parte da jornada de formação em Gestão da Produção Industrial, conectando análise de dados com a realidade do mercado global.*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a "Proatividade, Autonomia, Colaboração e Entrega de Resultados dos Estudantes Envolvidos".
-
-# Aprendizado por Projeto Integrador (API) - Cadeia Produtiva Metalúrgica (usinagem)
-
-<img width="1360" height="766" alt="Captura de tela 2025-12-04 012127" src="https://github.com/user-attachments/assets/10e058e0-6697-47ce-aa83-4c9e571d9918" />
-
-<img width="1360" height="764" alt="Captura de tela 2025-12-04 012156" src="https://github.com/user-attachments/assets/3be619c3-a8ff-49d4-971c-1172928392b0" />
-
-<img width="1360" height="766" alt="Captura de tela 2025-12-04 012209" src="https://github.com/user-attachments/assets/c2857d9e-1981-454d-b395-4b31070efd72" />
-
-# Desenvolvedores
-
-<img width="1358" height="764" alt="Captura de tela 2025-12-04 012139" src="https://github.com/user-attachments/assets/8778aaf4-68e7-4b77-91b1-b77b854889b4" />
-
-# Backlog do produto
-
-<img width="1308" height="673" alt="Captura de tela 2025-12-04 012303" src="https://github.com/user-attachments/assets/fbdd1890-005c-4eb6-a964-e3bb7966e6cd" />
-
 
 # Gantt
 
@@ -130,27 +91,7 @@ Os dados consolidados revelam um cenário de forte dependência externa na cadei
 
 https://docs.google.com/spreadsheets/d/1kJ1cwPZ4MR87zW-SLJPsg8rr4Vga_nxn/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
 
-# Dashboard Importação, Exportação e balança comercial da Cadeia Produtiva (usinagem)
-
-> Dados importação, Exportação e balança Comercial
-
-<img width="1439" height="807" alt="Captura de tela 2025-12-01 004349" src="https://github.com/user-attachments/assets/d4244194-deec-4640-b400-edb7f8c5b2bf" />
-
-> Gráfico de KPI.
-
-<img width="1434" height="802" alt="Captura de tela 2025-12-01 205914" src="https://github.com/user-attachments/assets/99bd32d2-e79a-402a-97ce-6fac5f710a03" />
-
-> Dados mensais do ano de 2024 da cidade de (SJC)
-
-<img width="1433" height="801" alt="Captura de tela 2025-12-01 004309" src="https://github.com/user-attachments/assets/582fce70-234a-4007-858c-45388cccdacf" />
-
-> Parceiros comerciais e produtos comercializados.
-
-<img width="1426" height="794" alt="Captura de tela 2025-12-01 004212" src="https://github.com/user-attachments/assets/09a7e08d-ce3c-49da-b688-b9e561ee60a8" />
-
-> Gravação do Dashboard.
-
-https://github.com/user-attachments/assets/3d0d2770-751f-4e12-8255-bb24acf0e7ed
+---
 
 # Arquivo Google Colab
 > Primeiro passo - Processo de aprendizagem.
@@ -177,27 +118,38 @@ https://colab.research.google.com/drive/1UPbPGwr2CO3U8kikfb1ZwxlJU3VDV-wo?usp=dr
 
 https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive_link
 
+---
+
+## 🖼️ Visualização dos Dashboards Importação, Exportação e balança comercial da Cadeia Produtiva (usinagem)
+
+> Dados importação, Exportação e balança Comercial
+
+<img width="1439" height="807" alt="Captura de tela 2025-12-01 004349" src="https://github.com/user-attachments/assets/d4244194-deec-4640-b400-edb7f8c5b2bf" />
+
+> Gráfico de KPI.
+
+<img width="1434" height="802" alt="Captura de tela 2025-12-01 205914" src="https://github.com/user-attachments/assets/99bd32d2-e79a-402a-97ce-6fac5f710a03" />
+
+> Dados mensais do ano de 2024 da cidade de (SJC)
+
+<img width="1433" height="801" alt="Captura de tela 2025-12-01 004309" src="https://github.com/user-attachments/assets/582fce70-234a-4007-858c-45388cccdacf" />
+
+> Parceiros comerciais e produtos comercializados.
+
+<img width="1426" height="794" alt="Captura de tela 2025-12-01 004212" src="https://github.com/user-attachments/assets/09a7e08d-ce3c-49da-b688-b9e561ee60a8" />
+
+> Gravação do Dashboard.
+
+https://github.com/user-attachments/assets/3d0d2770-751f-4e12-8255-bb24acf0e7ed
+
+---
+
 # Arquivo Power BI
 
 https://drive.google.com/file/d/1vgGE26VmNYBYqFFwclIxYYIQaAm9Enp6/view?usp=drive_link
 
-# Relatório
-<img width="558" height="785" alt="Captura de tela 2025-12-04 183223" src="https://github.com/user-attachments/assets/cd8cbfab-693a-4c2c-a30f-47c9893291f7" />
+---
 
-> Arquivo
-
-https://docs.google.com/document/d/1HJqbCbkJadz6_sONCuSbQVRMANfOS-nH/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
-
-
-# Arquivo Power point 3° sprint e gravação da apresentação
-
-> Slides da apresentação
-
-https://docs.google.com/presentation/d/19VbSszKY70ZFRTxBJPLYaIOPXBlnvCRr/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
-
-> Gravação da apresentação
-
-https://drive.google.com/file/d/1CX-21PI59WqLfP5kft04LVBz6kYCfdBF/view?usp=drive_link
 
 # Arquivo da apresentação da XII Feira de soluções
 
@@ -209,31 +161,35 @@ https://drive.google.com/file/d/1CX-21PI59WqLfP5kft04LVBz6kYCfdBF/view?usp=drive
 
 https://docs.google.com/presentation/d/1Dz1IkQm3XMs-6R-6sDdWP2njuduvp49p/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
 
-# Índice
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Equipe](#Equipe)
-* [Backlog do produto](#Product-Backlog)
-* [Competências desenvolvidas](#competências-desenvolvidas)
-* [Registro das Sprints](#Registro-das-Sprints)
+# Arquivo Power point 3° sprint e gravação da apresentação
 
-# Projeto (API)
- 
-Projeto pedagógico alicerçado na metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao aviso legal disponível no site da Fatec SJC, com definição das datas do kickoff e das sprint.
+> Slides da apresentação
 
+https://docs.google.com/presentation/d/19VbSszKY70ZFRTxBJPLYaIOPXBlnvCRr/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
 
+> Gravação da apresentação
 
+https://drive.google.com/file/d/1CX-21PI59WqLfP5kft04LVBz6kYCfdBF/view?usp=drive_link
 
+---
 
+# Relatório
+<img width="558" height="785" alt="Captura de tela 2025-12-04 183223" src="https://github.com/user-attachments/assets/cd8cbfab-693a-4c2c-a30f-47c9893291f7" />
 
+> Arquivo
 
+https://docs.google.com/document/d/1HJqbCbkJadz6_sONCuSbQVRMANfOS-nH/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
 
-# Product Backlog
+---
 
-<img width="1256" height="1284" alt="image" src="https://github.com/user-attachments/assets/5aefad53-4685-4cba-bb25-f4db06fa129e" />
+# Registro das Sprints
 
+| Sprint            | Previsão   | Status   | Histórico |
+|-------------------|------------|----------|-----------|
+| 01                | 06/10/2025 |  Concluído| [MVP](MVP/sp1.md)  |
+| 02                | 10/11/2025 | Concluído | [MVP](MVP/sp2.md)  |
+| 03                | 24/11/2025 | Concluído  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 04/12/2025 | A fazer | [MVP](#)|
 
-
-
-
+---
+*Este projeto faz parte da jornada de formação em Gestão da Produção Industrial, conectando análise de dados com a realidade do mercado global.*
