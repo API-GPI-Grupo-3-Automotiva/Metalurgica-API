@@ -19,7 +19,7 @@
 * [Gantt](#Gantt)
 * [Arquivo Google Colab](#Arquivo-Google-Colab)
 * [Arquivo csv de Importação e Exportação](#Arquivo-csv-de-Importação-e-Exportação)
-* Visualização dos Insights](#Visualização-dos-Insights)
+* [Visualização dos Insights](#Visualização-dos-Insights)
 * [Arquivo Dashboard Power BI](#Arquivo-Dashboard-Power-BI)
 * [Apresentação da XII Feira de soluções](#Apresentação-da-XII-Feira-de-soluções)
 * [Relatório](#Relatório)
