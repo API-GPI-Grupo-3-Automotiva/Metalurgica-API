@@ -12,7 +12,14 @@
 
 Este projeto analisa os fluxos de importação e exportação da **cadeia produtiva metalúrgica**, especificamente no setor de **usinagem**. O estudo foca no impacto econômico regional do Vale do Paraíba, utilizando dados oficiais do sistema **Comex Stat (MDIC)**.
 
-O objetivo foi transformar grandes volumes de dados brutos em inteligência estratégica, identificando o papel da usinagem como elo vital para os setores automotivo, aeroespacial e médico, além de diagnosticar o déficit estrutural da balança comercial regional.
+O objetivo foi transformar grandes volumes de dados brutos em inteligência estratégica, identificando o papel da usinagem como elo vital para os setores automotivo, aeroespacial e médico, além de diagnosticar o déficit estrutural da balança comercial regional e criar um Dashboard da "Cadeia Produtiva Metalúrgica".
+* Analisar dados abertos do governo de expoatação e importação da cadeia produtiva metalúrgica (usinagem).
+* Analisar as cidades de Caçapava, São José dos Campos, Jacareí e Taubaté do estado de SP. 
+* Indicar valores importado e exportado, dos anos de 2021,2022,2023,2024 e 2025.
+* Top dez - Produtos da cadeia produtiva mais importados e exportados.
+* Top dez - Maiores parceiros comerciais dessas cidades analisadas.
+  
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -64,6 +71,17 @@ Os dados consolidados revelam um cenário de forte dependência externa na cadei
 > *(Nota: Insira aqui os prints das telas de KPI, Sazonalidade Mensal e Parceiros Comerciais conforme apresentados na Feira de Soluções).*
 
 [Dashboard_Geral_Link_Imagem]
+
+---
+
+# Registro das Sprints
+
+| Sprint            | Previsão   | Status   | Histórico |
+|-------------------|------------|----------|-----------|
+| 01                | 06/10/2025 |  Concluído| [MVP](MVP/sp1.md)  |
+| 02                | 10/11/2025 | Concluído | [MVP](MVP/sp2.md)  |
+| 03                | 24/11/2025 | Concluído  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 04/12/2025 | A fazer | [MVP](#)|
 
 ---
 *Este projeto faz parte da jornada de formação em Gestão da Produção Industrial, conectando análise de dados com a realidade do mercado global.*
@@ -204,31 +222,12 @@ Projeto pedagógico alicerçado na metodologia API para ensino-aprendizado focad
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao aviso legal disponível no site da Fatec SJC, com definição das datas do kickoff e das sprint.
 
-# Equipe
-| Funçao | Nome | LinkedIn & GitHub |
-|-------- | ----- |:--------------------: |
-| Product Owner | Anderson Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santos-31473141) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/SantosGuarilha) |
-| Scrum Master | José Sérgio | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-s%C3%A9rgio-dos-santos-a841ba36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoseSergio414) |
-| Team Member | Luís Carlos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiscarlosjacare%C3%AD?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/API-GPI-Grupo-6-Metalurgica/people/cantiliolc-LuisCarlos) |
-|  Team Member | Sebastião Leandro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-leandro-78a273387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastiao82)|
 
-# Objetivo do Projeto
-Este projeto tem como objetivo analisar e criar um Dashboard da "Cadeia Produtiva Metalúrgica".
-* Analisar dados abertos do governo de expoatação e importação da cadeia produtiva metalúrgica (usinagem).
-* Analisar as cidades de Caçapava, São José dos Campos, Jacareí e Taubaté do estado de SP. 
-* Indicar valores importado e exportado, dos anos de 2021,2022,2023,2024 e 2025.
-* Top dez - Produtos da cadeia produtiva mais importados e exportados.
-* Top dez - Maiores parceiros comerciais dessas cidades analisadas.
 
-# Tecnologias Utilizadas
 
-* Microsoft Excel
-* Power BI
-* Google Colab
-* Python
-* Word
-* Ghithub
-* Gemini (para pesquisas)
+
+
+
 
 # Product Backlog
 
@@ -236,12 +235,5 @@ Este projeto tem como objetivo analisar e criar um Dashboard da "Cadeia Produtiv
 
 
 
-# Registro das Sprints
 
-| Sprint            | Previsão   | Status   | Histórico |
-|-------------------|------------|----------|-----------|
-| 01                | 06/10/2025 |  Concluído| [MVP](MVP/sp1.md)  |
-| 02                | 10/11/2025 | Concluído | [MVP](MVP/sp2.md)  |
-| 03                | 24/11/2025 | Concluído  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 04/12/2025 | A fazer | [MVP](#)|
 
