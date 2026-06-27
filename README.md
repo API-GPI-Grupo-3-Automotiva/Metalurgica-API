@@ -117,11 +117,15 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Nov
 
 https://colab.research.google.com/drive/1xmrA1FQHD_sVnGs5TDI1SR1zNOG8fqQh?usp=sharing
 
+---
+
 **Segundo passo - Juntando todos os dados de importação em um único arquivo e o mesmo para exportação.**
  
 >Link
 
 https://colab.research.google.com/drive/1UCa-sUD44SGleC2Q_fuByw4G_dOxTlQR?usp=drive_link
+
+---
 
 **Terceiro passo - Unindo todos em um único arquivo.**
 
@@ -129,11 +133,15 @@ https://colab.research.google.com/drive/1UCa-sUD44SGleC2Q_fuByw4G_dOxTlQR?usp=dr
 
 https://colab.research.google.com/drive/11xS76rw55ZOBzjL-1zlrca465_SGmVLh?usp=drive_link
 
+---
+
 **Quarto passo - Criando uma coluna de valor para exportação, outra importação e uma para balança comercial.**
 
 >Link
 
 https://colab.research.google.com/drive/1UPbPGwr2CO3U8kikfb1ZwxlJU3VDV-wo?usp=drive_link
+
+---
 
 # Arquivo csv de Importação e Exportação
 
@@ -149,17 +157,25 @@ https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive
 
 <img width="1439" height="807" alt="Captura de tela 2025-12-01 004349" src="https://github.com/user-attachments/assets/d4244194-deec-4640-b400-edb7f8c5b2bf" />
 
+---
+
 > Gráfico de KPI.
 
 <img width="1434" height="802" alt="Captura de tela 2025-12-01 205914" src="https://github.com/user-attachments/assets/99bd32d2-e79a-402a-97ce-6fac5f710a03" />
+
+---
 
 > Dados mensais do ano de 2024 da cidade de (SJC)
 
 <img width="1433" height="801" alt="Captura de tela 2025-12-01 004309" src="https://github.com/user-attachments/assets/582fce70-234a-4007-858c-45388cccdacf" />
 
+---
+
 > Parceiros comerciais e produtos comercializados.
 
 <img width="1426" height="794" alt="Captura de tela 2025-12-01 004212" src="https://github.com/user-attachments/assets/09a7e08d-ce3c-49da-b688-b9e561ee60a8" />
+
+---
 
 > Gravação do Dashboard.
  
