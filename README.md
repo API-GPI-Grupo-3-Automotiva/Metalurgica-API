@@ -52,7 +52,7 @@ O objetivo foi transformar grandes volumes de dados brutos em inteligência estr
 
 ## Acesso ao Projeto Dashboard e Dados
 
-Para garantir uma melhor experiência e contornar as limitações de tamanho de arquivos do GitHub, o nosso projeto foi estruturado de forma 100% cloud:
+Para garantir uma melhor experiência e contornar as limitações de tamanho de arquivos no GitHub, o nosso projeto foi estruturado de forma 100% cloud:
 
 [![Acessar Dashboard](https://img.shields.io/badge/Acessar_Dashboard_Interativo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYTdkYWViNDYtN2ViYi00ODVlLWFhYTktZjI1MGJiNWZmMGFjIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 
