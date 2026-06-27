@@ -157,9 +157,9 @@ https://app.powerbi.com/view?r=eyJrIjoiYTdkYWViNDYtN2ViYi00ODVlLWFhYTktZjI1MGJiN
 
 <img width="1919" height="1076" alt="Captura de tela 2025-12-03 210902" src="https://github.com/user-attachments/assets/69992510-9b41-40aa-97e3-f4c05b3d332a" />
 
->Arquivo
+>Link
 
-https://docs.google.com/presentation/d/1Dz1IkQm3XMs-6R-6sDdWP2njuduvp49p/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
+https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Modelo_Feira_Solucoes%202025-grupo_6_novo.pdf
 
 # Arquivo Power point 3° sprint e gravação da apresentação
 
