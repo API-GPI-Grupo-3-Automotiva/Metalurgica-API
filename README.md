@@ -161,18 +161,6 @@ https://app.powerbi.com/view?r=eyJrIjoiYTdkYWViNDYtN2ViYi00ODVlLWFhYTktZjI1MGJiN
 
 https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Modelo_Feira_Solucoes%202025-grupo_6_novo.pdf
 
-# Arquivo Power point 3° sprint e gravação da apresentação
-
-> Slides da apresentação
-
-<img width="1290" height="731" alt="image" src="https://github.com/user-attachments/assets/c14703b7-2527-4dc3-8c46-16ca41507891" />
-
-https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/SPRINT%203%20ANALISE%20CADEIA%20METALURGICA%20USINAGEM%20(%202021%202025).pdf
-
-> Gravação da apresentação
-
-https://drive.google.com/file/d/1CX-21PI59WqLfP5kft04LVBz6kYCfdBF/view?usp=drive_link
-
 ---
 
 # Relatório
