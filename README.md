@@ -94,23 +94,20 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Nov
 ---
 
 # Arquivo Google Colab
-> Primeiro passo - Processo de aprendizagem.
 
-https://colab.research.google.com/drive/1iIwXUhsNgcVJA8B9EKZpmgDArt6t77os?usp=drive_link
-
-> Segundo passo - Dados exportação e tabelas auxiliares.
+> Primeiro passo - Dados exportação e tabelas auxiliares.
 
 https://colab.research.google.com/drive/1xmrA1FQHD_sVnGs5TDI1SR1zNOG8fqQh?usp=sharing
 
-> Terceiro passo - Juntando todos os dados de importação em um único arquivo e o mesmo para exportação.
+> Segundo passo - Juntando todos os dados de importação em um único arquivo e o mesmo para exportação.
 
 https://colab.research.google.com/drive/1UCa-sUD44SGleC2Q_fuByw4G_dOxTlQR?usp=drive_link
 
-> Quarto passo - Unindo todos em um único arquivo.
+> Terceiro passo - Unindo todos em um único arquivo.
 
 https://colab.research.google.com/drive/11xS76rw55ZOBzjL-1zlrca465_SGmVLh?usp=drive_link
 
-> Quinto passo - Criando uma coluna de valor para exportação, outra importação e uma para balança comercial.
+> Quarto passo - Criando uma coluna de valor para exportação, outra importação e uma para balança comercial.
 
 https://colab.research.google.com/drive/1UPbPGwr2CO3U8kikfb1ZwxlJU3VDV-wo?usp=drive_link
 
