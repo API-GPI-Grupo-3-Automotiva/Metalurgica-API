@@ -133,7 +133,7 @@ https://colab.research.google.com/drive/1UCa-sUD44SGleC2Q_fuByw4G_dOxTlQR?usp=dr
 
 >Link
 
-https://colab.research.google.com/drive/11xS76rw55ZOBzjL-1zlrca465_SGmVLh?usp=drive_link
+https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Dadosfinal2sprint_exp.ipynb
 
 ---
 
