@@ -143,7 +143,7 @@ https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive
 
 ---
 
-## 🖼️ Visualização dos Dashboards Importação, Exportação e balança comercial da Cadeia Produtiva (usinagem)
+## Visualização dos Dashboards Importação, Exportação e balança comercial da Cadeia Produtiva (usinagem)
 
 > Dados importação, Exportação e balança Comercial
 
