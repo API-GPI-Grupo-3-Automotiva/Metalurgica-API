@@ -179,7 +179,7 @@ https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive
 
 ---
 
-**Vidéo do Dashboard.**
+**Vídeo do Dashboard.**
  
 https://github.com/user-attachments/assets/3d0d2770-751f-4e12-8255-bb24acf0e7ed
 
