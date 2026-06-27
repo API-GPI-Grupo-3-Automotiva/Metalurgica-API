@@ -100,7 +100,7 @@ https://colab.research.google.com/drive/1iIwXUhsNgcVJA8B9EKZpmgDArt6t77os?usp=dr
 
 > Segundo passo - Dados exportação e tabelas auxiliares.
 
-https://colab.research.google.com/drive/1-sZJZGVSsheN1fNU_Ef60qnZkdXDsTql?usp=drive_link
+https://colab.research.google.com/drive/1xmrA1FQHD_sVnGs5TDI1SR1zNOG8fqQh?usp=sharing
 
 > Terceiro passo - Juntando todos os dados de importação em um único arquivo e o mesmo para exportação.
 
