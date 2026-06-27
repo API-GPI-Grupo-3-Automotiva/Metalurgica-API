@@ -19,8 +19,8 @@
 * [Gantt](#Gantt)
 * [Arquivo Google Colab](#Arquivo-Google-Colab)
 * [Arquivo csv de Importação e Exportação](#Arquivo-csv-de-Importação-e-Exportação)
-* [Visualização dos Dashboards Importação Exportação e balança comercial da Cadeia Produtiva](#Visualização-dos-Dashboards-Importação-Exportação-e-balança-comercial-da-Cadeia-Produtiva)
-* [Dashboard Power BI](#Dashboard-Power-BI)
+* Visualização dos Insights](#Visualização-dos-Insights)
+* [Arquivo Dashboard Power BI](#Arquivo-Dashboard-Power-BI)
 * [Apresentação da XII Feira de soluções](#Apresentação-da-XII-Feira-de-soluções)
 * [Relatório](#Relatório)
 * [Registro das Sprints](#Registro-das-Sprints)
@@ -143,7 +143,7 @@ https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive
 
 ---
 
-## Visualização dos Dashboards Importação, Exportação e balança comercial da Cadeia Produtiva
+## Visualização dos Insights
 
 > Dados importação, Exportação e balança Comercial
 
@@ -169,7 +169,7 @@ https://github.com/user-attachments/assets/3d0d2770-751f-4e12-8255-bb24acf0e7ed
 
 ---
 
-# Dashboard Power BI
+# Arquivo Dashboard Power BI
 
 >Link
 
