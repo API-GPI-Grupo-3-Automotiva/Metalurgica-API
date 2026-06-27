@@ -155,14 +155,6 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/3sp
 
 ---
 
-# Arquivo csv de Importação e Exportação
-
->Link
-
-https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive_link
-
----
-
 ## Visualização dos Insights
 
 **Dados importação, Exportação e balança Comercial**
@@ -194,15 +186,6 @@ https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive
 https://github.com/user-attachments/assets/3d0d2770-751f-4e12-8255-bb24acf0e7ed
 
 ---
-
-# Arquivo Dashboard Power BI
-
->Link
-
-https://app.powerbi.com/view?r=eyJrIjoiYTdkYWViNDYtN2ViYi00ODVlLWFhYTktZjI1MGJiNWZmMGFjIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
-
----
-
 
 # Apresentação da XII Feira de soluções
 
