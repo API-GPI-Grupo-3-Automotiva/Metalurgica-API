@@ -17,7 +17,7 @@
 
 ---
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto analisa os fluxos de importação e exportação da **cadeia produtiva metalúrgica**, especificamente no setor de **usinagem**. O estudo foca no impacto econômico regional do Vale do Paraíba, utilizando dados oficiais do sistema **Comex Stat (MDIC)**.
 
