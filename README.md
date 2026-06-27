@@ -11,7 +11,7 @@
 # Índice
 * [Sobre o Projeto](#Sobre-o-Projeto)
 * [Tecnologias e Ferramentas](#Tecnologias-e-Ferramentas)
-* [Acesso ao Projeto Dashboard e Dados](#Acesso-ao-Projeto-Dashboard-e-Dados)
+* [Acesso Rápido ao Projeto](#Acesso-Rápido-ao-Projeto)
 * [Equipe do Projeto](#Equipe-do-Projeto)
 * [Orientadores](#Orientadores)
 * [Principais Indicadores Globais 2021 a 2025](#Principais-Indicadores-Globais-2021-a-2025)
