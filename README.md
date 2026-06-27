@@ -20,8 +20,6 @@
 * [Gantt](#Gantt)
 * [Arquivos Google Colab](#Arquivos-Google-Colab)
 * [Visualização dos Insights](#Visualização-dos-Insights)
-* [Apresentação da XII Feira de soluções](#Apresentação-da-XII-Feira-de-soluções)
-* [Relatório](#Relatório)
 * [Registro das Sprints](#Registro-das-Sprints)
 
 ---
@@ -190,27 +188,6 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/3sp
 **Vídeo do Dashboard.**
  
 https://github.com/user-attachments/assets/3d0d2770-751f-4e12-8255-bb24acf0e7ed
-
----
-
-# Apresentação da XII Feira de soluções
-
-> Slides da apresentação
-
-<img width="1919" height="1076" alt="Captura de tela 2025-12-03 210902" src="https://github.com/user-attachments/assets/69992510-9b41-40aa-97e3-f4c05b3d332a" />
-
->Link
-
-https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Modelo_Feira_Solucoes%202025-grupo_6_novo.pdf
-
----
-
-# Relatório
-<img width="558" height="785" alt="Captura de tela 2025-12-04 183223" src="https://github.com/user-attachments/assets/cd8cbfab-693a-4c2c-a30f-47c9893291f7" />
-
-> Link
-
-https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Relat%C3%B3rio%20-%20Projeto%20Integrador.pdf
 
 ---
 
