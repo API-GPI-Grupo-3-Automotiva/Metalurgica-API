@@ -1,4 +1,4 @@
-# 📌 MVP - [Cadeia Produtiva Metalúrgica (Usinagem]
+# 📌 MVP 2 - [Cadeia Produtiva Metalúrgica (Usinagem]
 
 ## 🎯 Objetivo do MVP
 > Analisar dados do site Comex stat filtrando pelos códigos sh4 que se encaixam á cadeia produtiva metalúrgica (usinagem):  
