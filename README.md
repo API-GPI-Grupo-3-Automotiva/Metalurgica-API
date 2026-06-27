@@ -176,9 +176,9 @@ https://drive.google.com/file/d/1CX-21PI59WqLfP5kft04LVBz6kYCfdBF/view?usp=drive
 # Relatório
 <img width="558" height="785" alt="Captura de tela 2025-12-04 183223" src="https://github.com/user-attachments/assets/cd8cbfab-693a-4c2c-a30f-47c9893291f7" />
 
-> Arquivo
+> Link
 
-https://docs.google.com/document/d/1HJqbCbkJadz6_sONCuSbQVRMANfOS-nH/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
+https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Relat%C3%B3rio%20-%20Projeto%20Integrador.pdf
 
 ---
 
