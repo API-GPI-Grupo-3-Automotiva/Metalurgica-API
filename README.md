@@ -13,7 +13,7 @@
 * [Tecnologias e Ferramentas](#Tecnologias-e-Ferramentas)
 * [Equipe do Projeto](#Equipe-do-Projeto)
 * [Orientadores](#Orientadores)
-* [Principais Indicadores Globais 2021 à 2025](#Principais-Indicadores-Globais-2021-à-2025)
+* [Principais Indicadores Globais 2021 a 2025](#Principais-Indicadores-Globais-2021-a-2025)
 * [Insights e Conclusões Estratégicas](#Insights-e-Conclusões-Estratégicas)
 * [Backlog do produto](#Product-Backlog)
 * [Gantt](#Gantt)
@@ -66,7 +66,7 @@ O objetivo foi transformar grandes volumes de dados brutos em inteligência estr
 
 ---
 
-## Principais Indicadores Globais 2021 à 2025
+## Principais Indicadores Globais 2021 a 2025
 
 Os dados consolidados revelam um cenário de forte dependência externa na cadeia de usinagem regional:
 
