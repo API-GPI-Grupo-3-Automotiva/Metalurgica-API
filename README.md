@@ -19,7 +19,7 @@
 * [Gantt](#Gantt)
 * [Arquivo Google Colab](#Arquivo-Google-Colab)
 * [Arquivo.csv de Importação e Exportação.](#Arquivo.csv-de-Importação-e-Exportação.)
-* [Visualização dos Dashboards Importação, Exportação e balança comercial da Cadeia Produtiva usinagem](#Prints-Dashboards)
+* [Visualização dos Dashboards Importação, Exportação e balança comercial da Cadeia Produtiva](#Prints-Dashboards)
 * [Dashboard Power BI](#Dashboard-Power-BI)
 * [Apresentação da XII Feira de soluções](#Apresentação-da-XII-Feira-de-soluções)
 * [Relatório](#Relatório)
@@ -143,7 +143,7 @@ https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive
 
 ---
 
-## Visualização dos Dashboards Importação, Exportação e balança comercial da Cadeia Produtiva (usinagem)
+## Visualização dos Dashboards Importação, Exportação e balança comercial da Cadeia Produtiva
 
 > Dados importação, Exportação e balança Comercial
 
