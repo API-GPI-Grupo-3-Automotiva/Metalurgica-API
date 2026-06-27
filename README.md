@@ -155,34 +155,32 @@ https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive
 
 ## Visualização dos Insights
 
-***Dados importação, Exportação e balança Comercial***
+**Dados importação, Exportação e balança Comercial**
 
 <img width="1439" height="807" alt="Captura de tela 2025-12-01 004349" src="https://github.com/user-attachments/assets/d4244194-deec-4640-b400-edb7f8c5b2bf" />
 
 ---
 
-***Gráfico de KPI.***
+**Gráfico de KPI.**
 
 <img width="1434" height="802" alt="Captura de tela 2025-12-01 205914" src="https://github.com/user-attachments/assets/99bd32d2-e79a-402a-97ce-6fac5f710a03" />
 
 ---
 
-***Dados mensais do ano de 2024 da cidade de (SJC)***
+**Dados mensais do ano de 2024 da cidade de (SJC)**
 
 <img width="1433" height="801" alt="Captura de tela 2025-12-01 004309" src="https://github.com/user-attachments/assets/582fce70-234a-4007-858c-45388cccdacf" />
 
 ---
 
-***Parceiros comerciais e produtos comercializados.***
+**Parceiros comerciais e produtos comercializados.**
 
 <img width="1426" height="794" alt="Captura de tela 2025-12-01 004212" src="https://github.com/user-attachments/assets/09a7e08d-ce3c-49da-b688-b9e561ee60a8" />
 
 ---
 
-***Gravação do Dashboard.***
+**Vidéo do Dashboard.**
  
->Link
-
 https://github.com/user-attachments/assets/3d0d2770-751f-4e12-8255-bb24acf0e7ed
 
 ---
