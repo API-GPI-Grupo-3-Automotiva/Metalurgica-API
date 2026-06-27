@@ -13,7 +13,7 @@
 * [Tecnologias e Ferramentas](#Tecnologias-e-Ferramentas)
 * [Equipe do Projeto](#Equipe-do-Projeto)
 * [Orientadores](#Orientadores)
-* [Principais Indicadores Globais 2021-2025](#Principais-Indicadores-Globais-2021-2025))
+* [Principais Indicadores Globais 2021-2025](#Principais-Indicadores-Globais-2021-2025)
 * [Insights e Conclusões Estratégicas](#Insights-e-Conclusões-Estratégicas)
 * [Backlog do produto](#Product-Backlog)
 * [Gantt](#Gantt)
