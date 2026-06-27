@@ -48,15 +48,23 @@ O objetivo foi transformar grandes volumes de dados brutos em inteligência estr
 
 ---
 
-## Acesso ao Projeto Dashboard e Dados
+## Acesso Rápido ao Projeto
 
-Para garantir uma melhor experiência e contornar as limitações de tamanho de arquivos no GitHub, o nosso projeto foi estruturado de forma 100% cloud:
+Para garantir uma melhor experiência e contornar as limitações de tamanho de arquivos do GitHub, o nosso projeto foi estruturado de forma 100% cloud:
 
+### 📊 Visualização e Dados
 [![Acessar Dashboard](https://img.shields.io/badge/Acessar_Dashboard_Interativo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYTdkYWViNDYtN2ViYi00ODVlLWFhYTktZjI1MGJiNWZmMGFjIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 
 [![Acessar Dados](https://img.shields.io/badge/Acessar_Dados_Brutos_(CSV)-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive_link)
 
+### 📄 Documentação e Resultados
+
+[![Ver Apresentação](https://img.shields.io/badge/Ver_Apresentação_Executiva-E60023?style=for-the-badge&logo=google-slides&logoColor=white)](https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Modelo_Feira_Solucoes%202025-grupo_6_novo.pdf
+)
+[![Ler Relatório Técnico](https://img.shields.io/badge/Ler_Relatório_Completo_(PDF)-323232?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Relat%C3%B3rio%20-%20Projeto%20Integrador.pdf)
+
 ---
+
 ## Equipe do Projeto
 
 | Integrante | Função (Scrum) | LinkedIn | GitHub |
