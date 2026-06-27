@@ -11,6 +11,7 @@
 # Índice
 * [Sobre o Projeto](#Sobre-o-Projeto)
 * [Tecnologias e Ferramentas](#Tecnologias-e-Ferramentas)
+* [Acesso ao Projeto Dashboard e Dados](#Acesso-ao-Projeto-Dashboard-e-Dados)
 * [Equipe do Projeto](#Equipe-do-Projeto)
 * [Orientadores](#Orientadores)
 * [Principais Indicadores Globais 2021 a 2025](#Principais-Indicadores-Globais-2021-a-2025)
@@ -49,6 +50,14 @@ O objetivo foi transformar grandes volumes de dados brutos em inteligência estr
 
 ---
 
+## Acesso ao Projeto Dashboard e Dados
+
+Para garantir uma melhor experiência e contornar as limitações de tamanho de ficheiros do GitHub, o nosso projeto foi estruturado de forma 100% cloud:
+
+* 📊 **[Clique aqui para aceder ao Dashboard Interativo (Power BI Web)](#)** *(https://app.powerbi.com/view?r=eyJrIjoiYTdkYWViNDYtN2ViYi00ODVlLWFhYTktZjI1MGJiNWZmMGFjIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)*
+* 💾 **[Clique aqui para aceder aos Dados Brutos (CSV no Google Drive)](#)** *(https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive_link)*
+
+---
 ## Equipe do Projeto
 
 | Integrante | Função (Scrum) | LinkedIn | GitHub |
