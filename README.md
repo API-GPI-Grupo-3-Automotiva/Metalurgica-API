@@ -24,7 +24,7 @@ Este projeto analisa os fluxos de importação e exportação da **cadeia produt
 O objetivo foi transformar grandes volumes de dados brutos em inteligência estratégica, identificando o papel da usinagem como elo vital para os setores automotivo, aeroespacial e médico, além de diagnosticar o déficit estrutural da balança comercial regional e criar um Dashboard da "Cadeia Produtiva Metalúrgica".
 * Analisar dados abertos do governo de exportação e importação da cadeia produtiva metalúrgica (usinagem).
 * Analisar as cidades de Caçapava, São José dos Campos, Jacareí e Taubaté do estado de SP. 
-* Indicar valores importado e exportado, dos anos de 2021,2022,2023,2024 e 2025.
+* Indicar valores de importação e exportação, dos anos de (2021-2025).
 * Top dez - Produtos da cadeia produtiva mais importados e exportados.
 * Top dez - Maiores parceiros comerciais dessas cidades analisadas.
   
