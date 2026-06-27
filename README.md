@@ -9,7 +9,7 @@
 ---
 
 # Índice
-* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Objetivo do Projeto](#📋 Sobre o Projeto)
 * [Equipe](#Equipe)
 * [Backlog do produto](#Product-Backlog)
 * [Competências desenvolvidas](#competências-desenvolvidas)
