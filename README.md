@@ -20,7 +20,7 @@
 * [Arquivo Google Colab](#Arquivo-Google-Colab)
 * [Arquivo.csv de Importação e Exportação.](#Arquivo.csv-de-Importação-e-Exportação.)
 * [Visualização dos Dashboards Importação, Exportação e balança comercial da Cadeia Produtiva (usinagem)](#Prints-Dashboards)
-* [Dashboard (Power BI)](#Dashboard-(Power-BI))
+* [Dashboard Power BI](#Dashboard-(Power-BI))
 * [Apresentação da XII Feira de soluções](#Apresentação-da-XII-Feira-de-soluções)
 * [Relatório](#Relatório)
 * [Registro das Sprints](#Registro-das-Sprints)
