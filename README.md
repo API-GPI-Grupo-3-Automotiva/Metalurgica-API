@@ -87,7 +87,7 @@ Os dados consolidados revelam um cenário de forte dependência externa na cadei
 
 <img width="1839" height="739" alt="Captura de tela 2025-12-04 181758" src="https://github.com/user-attachments/assets/54e284ee-3493-40a1-9ad5-04f5d2d90abc" />
 
-> Arquivo
+> Link
 
 https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Novo%20Gantt.xlsx
 
@@ -95,23 +95,35 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Nov
 
 # Arquivo Google Colab
 
+<img width="1217" height="927" alt="image" src="https://github.com/user-attachments/assets/6cae3066-bdca-4a2f-abea-600f251e548c" />
+
 > Primeiro passo - Dados exportação e tabelas auxiliares.
+
+>Link
 
 https://colab.research.google.com/drive/1xmrA1FQHD_sVnGs5TDI1SR1zNOG8fqQh?usp=sharing
 
 > Segundo passo - Juntando todos os dados de importação em um único arquivo e o mesmo para exportação.
 
+>Link
+
 https://colab.research.google.com/drive/1UCa-sUD44SGleC2Q_fuByw4G_dOxTlQR?usp=drive_link
 
 > Terceiro passo - Unindo todos em um único arquivo.
+
+>Link
 
 https://colab.research.google.com/drive/11xS76rw55ZOBzjL-1zlrca465_SGmVLh?usp=drive_link
 
 > Quarto passo - Criando uma coluna de valor para exportação, outra importação e uma para balança comercial.
 
+>Link
+
 https://colab.research.google.com/drive/1UPbPGwr2CO3U8kikfb1ZwxlJU3VDV-wo?usp=drive_link
 
 # Arquivo.csv de Importação e Exportação.
+
+>Link
 
 https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive_link
 
@@ -136,19 +148,23 @@ https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive
 <img width="1426" height="794" alt="Captura de tela 2025-12-01 004212" src="https://github.com/user-attachments/assets/09a7e08d-ce3c-49da-b688-b9e561ee60a8" />
 
 > Gravação do Dashboard.
+ 
+>Link
 
 https://github.com/user-attachments/assets/3d0d2770-751f-4e12-8255-bb24acf0e7ed
 
 ---
 
-# Arquivo Power BI
+# Dashboard (Power BI)
+
+>Link
 
 https://app.powerbi.com/view?r=eyJrIjoiYTdkYWViNDYtN2ViYi00ODVlLWFhYTktZjI1MGJiNWZmMGFjIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
 
 ---
 
 
-# Arquivo da apresentação da XII Feira de soluções
+# Apresentação da XII Feira de soluções
 
 > Slides da apresentação
 
@@ -179,4 +195,7 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Rel
 | Feira de Soluções | 04/12/2025 | A fazer | [MVP](#)|
 
 ---
+
 *Este projeto faz parte da jornada de formação em Gestão da Produção Industrial, conectando análise de dados com a realidade do mercado global.*
+
+---
