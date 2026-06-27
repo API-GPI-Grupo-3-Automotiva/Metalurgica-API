@@ -167,7 +167,7 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Mod
 
 <img width="1290" height="731" alt="image" src="https://github.com/user-attachments/assets/c14703b7-2527-4dc3-8c46-16ca41507891" />
 
-https://docs.google.com/presentation/d/19VbSszKY70ZFRTxBJPLYaIOPXBlnvCRr/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
+https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/SPRINT%203%20ANALISE%20CADEIA%20METALURGICA%20USINAGEM%20(%202021%202025).pdf
 
 > Gravação da apresentação
 
