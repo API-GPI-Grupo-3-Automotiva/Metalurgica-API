@@ -65,7 +65,7 @@ Para garantir uma melhor experiência e contornar as limitações de tamanho de 
 
 ## Equipe do Projeto
 
-| Integrante | Função (Scrum) | LinkedIn | GitHub |
+| Nome | Função (Scrum) | LinkedIn | GitHub |
 | :--- | :--- | :---: | :---: |
 | **Anderson Santos** | Product Owner | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santos-31473141) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/SantosGuarilha) |
 | **José Sérgio dos Santos** | Scrum Master | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-s%C3%A9rgio-dos-santos-a841ba36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoseSergio414) |
