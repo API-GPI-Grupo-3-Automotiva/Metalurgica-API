@@ -139,7 +139,6 @@ Os dados consolidados revelam um cenário de forte dependência externa na cadei
 >Link
 
 * **Arquivo:** [Jupyter Notebook](./Docs/Dadosimportção.ipynb)
-* **Arquivo:** [Jupyter Notebook](./Docs/Dadosimportção.ipynb)
 ---
 
 **Terceiro passo - Unindo todos em um único arquivo.**
@@ -156,7 +155,7 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Dad
 
 >Link
 
-* **Arquivo:** [Jupyter Notebook](./Docs/Dadofinal2sprint_exp.ipynb)
+* **Arquivo:** [Jupyter Notebook](./Docs/3sprintarquivo_final_exp.ipynb)
   
 https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/3sprintarquivo_final_exp.ipynb
 
