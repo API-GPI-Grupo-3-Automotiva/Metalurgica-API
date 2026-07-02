@@ -114,6 +114,8 @@ Os dados consolidados revelam um cenário de forte dependência externa na cadei
 
 <img width="1839" height="739" alt="Captura de tela 2025-12-04 181758" src="https://github.com/user-attachments/assets/54e284ee-3493-40a1-9ad5-04f5d2d90abc" />
 
+>Link
+
 * **Arquivo:** [Planilha Excel](./Docs/Novo%20Gantt.xlsx)
 
 ---
@@ -137,15 +139,15 @@ Os dados consolidados revelam um cenário de forte dependência externa na cadei
 >Link
 
 * **Arquivo:** [Jupyter Notebook](./Docs/Dadosimportção.ipynb)
-  
-https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Dadosimport%C3%A7%C3%A3o.ipynb
-
+* **Arquivo:** [Jupyter Notebook](./Docs/Dadosimportção.ipynb)
 ---
 
 **Terceiro passo - Unindo todos em um único arquivo.**
 
 >Link
-* **Arquivo:** [Planilha Excel](./Docs/Novo%20Gantt.xlsx)
+
+* **Arquivo:** [Jupyter Notebook](./Docs/Dadofinal2sprint_exp.ipynb)
+
 https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Dadosfinal2sprint_exp.ipynb
 
 ---
@@ -153,7 +155,9 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Dad
 **Quarto passo - Criando uma coluna de valor para exportação, outra importação e uma para balança comercial.**
 
 >Link
-* **Arquivo:** [Planilha Excel](./Docs/Novo%20Gantt.xlsx)
+
+* **Arquivo:** [Jupyter Notebook](./Docs/Dadofinal2sprint_exp.ipynb)
+  
 https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/3sprintarquivo_final_exp.ipynb
 
 ---
