@@ -116,8 +116,6 @@ Os dados consolidados revelam um cenário de forte dependência externa na cadei
 
 * **Arquivo:** [Planilha Excel](./Docs/Novo%20Gantt.xlsx)
 
-https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Novo%20Gantt.xlsx
-
 ---
 
 # Arquivos Google Colab
@@ -129,7 +127,7 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Nov
 **Primeiro passo - Dados exportação e tabelas auxiliares.**
 
 >Link
-
+* **Arquivo:** [Jupyter Notebook](./Docs/Dadoexportatação_ínício.ipynb)
 https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Dadosexporta%C3%A7%C3%A3o_%C3%ADn%C3%ADcio.ipynb
 
 ---
@@ -137,7 +135,7 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Dad
 **Segundo passo - Juntando todos os dados de importação em um único arquivo e o mesmo para exportação.**
  
 >Link
-
+* **Arquivo:** [Planilha Excel](./Docs/Novo%20Gantt.xlsx)
 https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Dadosimport%C3%A7%C3%A3o.ipynb
 
 ---
@@ -145,7 +143,7 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Dad
 **Terceiro passo - Unindo todos em um único arquivo.**
 
 >Link
-
+* **Arquivo:** [Planilha Excel](./Docs/Novo%20Gantt.xlsx)
 https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Dadosfinal2sprint_exp.ipynb
 
 ---
@@ -153,7 +151,7 @@ https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Dad
 **Quarto passo - Criando uma coluna de valor para exportação, outra importação e uma para balança comercial.**
 
 >Link
-
+* **Arquivo:** [Planilha Excel](./Docs/Novo%20Gantt.xlsx)
 https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/3sprintarquivo_final_exp.ipynb
 
 ---
