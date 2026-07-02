@@ -203,5 +203,3 @@ https://github.com/user-attachments/assets/3d0d2770-751f-4e12-8255-bb24acf0e7ed
 ---
 
 **"Este projeto faz parte da jornada de formação em Gestão da Produção Industrial, conectando análise de dados com a realidade do mercado global."**
-
----
